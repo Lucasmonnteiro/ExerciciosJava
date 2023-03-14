@@ -1,0 +1,49 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Imposto",
+            "request": "launch",
+            "mainClass": "Exercicios.Imposto",
+            "projectName": "ExerciciosJava_baae5b61"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Angulo",
+            "request": "launch",
+            "mainClass": "Exercicios.Angulo",
+            "projectName": "ExerciciosJava_baae5b61"
+        },
+        {
+            "type": "java",
+            "name": "Idade",
+            "request": "launch",
+            "mainClass": "Exercicios.Idade",
+            "projectName": "ExerciciosJava_baae5b61"
+        },
+        {
+            "type": "java",
+            "name": "Raiz",
+            "request": "launch",
+            "mainClass": "Exercicios.Raiz",
+            "projectName": "ExerciciosJava_baae5b61"
+        },
+        {
+            "type": "java",
+            "name": "Valor",
+            "request": "launch",
+            "mainClass": "Exercicios.Valor",
+            "projectName": "ExerciciosJava_baae5b61"
+        }
+    ]
+}
